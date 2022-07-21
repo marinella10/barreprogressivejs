@@ -1,0 +1,26 @@
+
+html {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#maProgress {
+    width: 100%;
+    background-color: hotpink;
+    margin-top: 20px;
+}
+
+#maBar {
+    width: 1%;
+    height: 50px;
+    background-color: orange;
+}
+
+.bouton{
+    border-radius: 20px;
+}
